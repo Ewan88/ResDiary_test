@@ -1,5 +1,5 @@
 function groupItems(items, groups) {
-    if (groups <= 0 || isNaN(groups)|| !items.length) {
+    if (groups <= 0 || isNaN(groups) || !items.length) {
         return [];
     }
 
